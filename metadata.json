@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Mentor week 2",
+  "description": "An AI-powered assistant for developers to generate code snippets, get code explanations, and debug errors.",
+  "requestFramePermissions": []
+}
